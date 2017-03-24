@@ -2,8 +2,8 @@
 
 package com.example.chan_.news.homepage;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 import com.example.chan_.news.R;
 
